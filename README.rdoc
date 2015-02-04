@@ -1,3 +1,5 @@
+
+== gem-store
 This a test project to integrate AngularJS in a Rails app
 
 The code of the angular app was written during the angular course  
