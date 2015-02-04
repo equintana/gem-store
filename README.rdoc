@@ -1,32 +1,27 @@
 This a test project to integrate AngularJS in a Rails app
 
 The code of the angular app was written during the angular course  
-[Shaping up with Angular.JS]("http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro") of CodeSchool
+Shaping-up-with-AngularJS["http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro"] of CodeSchool
 
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.0.0
 
-* System dependencies
+* System dependencies:
+   bower: installed as gem
+   angularJS: installed as bower dependency
 
 * Configuration
+ (nothing important yet)
 
-* Database creation
-
-* Database initialization
+* Database creation / initialization
+  (not necessary at this time)
 
 * How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ (not yet)
 
 
 Please feel free to use a different markup language if you do not plan to run
